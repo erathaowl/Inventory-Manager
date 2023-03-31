@@ -7,7 +7,7 @@ An inventory management system using Flask
 ## Clone this repository and set your path to it's folder, to get it up and running on your local system.
 
 ```
-git clone https://github.com/marination/Inventory-Manager.git
+git clone https://github.com/erathaowl/Inventory-Manager.git
 cd Inventory-Manager
 ```
 ## What to look for here?
